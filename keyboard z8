@@ -18,7 +18,7 @@ xkb_symbols "portuguese-z8tech" {
     key <AE08> { [  8,  parenleft,      bracketleft, asterisk ] };
     key <AE09> { [  9,  parenright,     bracketright, parenleft] };
     key <AE10> { [  0,  equal,          braceright,   parenright] };
-    key <AE11> { [  question, apostrophe,    minus,      underscore ] };
+    key <AE11> { [  apostrophe,question,    minus,      underscore ] };
     key <AE12> { [  equal, plus, guillemotleft,  guillemotright ] };
 
     key <AD01> { [  q,Q, notsign , notsign] };
