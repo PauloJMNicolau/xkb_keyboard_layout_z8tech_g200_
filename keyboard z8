@@ -27,7 +27,7 @@ xkb_symbols "portuguese-z8tech" {
     key <AD04> { [  r,R, notsign, notsign] };
     key <AD05> { [  t,T, notsign, notsign] };
     key <AD06> { [  y,Y, notsign, notsign] };
-    key <AD07> { [  u,u, notsign, notsign] };
+    key <AD07> { [  u,U, notsign, notsign] };
     key <AD08> { [  i,I, notsign, notsign] };
     key <AD09> { [  o,O, notsign, notsign] };
     key <AD10> { [  p,P, notsign, notsign] };
